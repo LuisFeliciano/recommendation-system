@@ -1,1 +1,1 @@
-worker: python recommender.py
+worker: python recommendor.py
